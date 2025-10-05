@@ -1,0 +1,17 @@
+# Node / TS
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Vite / build
+client/.vite/
+client/dist/
+server/dist/
+
+# OS / logs
+.DS_Store
+*.log
+
+# Secrets
+.env
+.env.*
